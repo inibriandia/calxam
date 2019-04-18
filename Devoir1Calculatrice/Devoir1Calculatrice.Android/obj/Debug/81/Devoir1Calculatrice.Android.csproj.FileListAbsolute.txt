@@ -1,0 +1,4 @@
+D:\Cours_Niveau2\Session3\PROG1335\Devoirs\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\Cours_Niveau2\Session3\PROG1335\Devoirs\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice.Android\obj\Debug\81\Devoir1Calculatrice.Android.csprojAssemblyReference.cache
+D:\Cours_Niveau2\Session3\PROG1335\Devoirs\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice.Android\obj\Debug\81\libraryimports.cache.stamp
+D:\Cours_Niveau2\Session3\PROG1335\Devoirs\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice.Android\obj\Debug\81\res.flag

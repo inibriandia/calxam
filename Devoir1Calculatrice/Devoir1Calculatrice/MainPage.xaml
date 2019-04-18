@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Devoir1Calculatrice"
+             x:Class="Devoir1Calculatrice.MainPage">
+
+    <Grid RowSpacing="6" ColumnSpacing="4">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <BoxView Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="3" VerticalOptions="FillAndExpand" 
+			HorizontalOptions="FillAndExpand" BackgroundColor="Orange"/>
+        <Button Grid.Column="3" Grid.Row="0" VerticalOptions="FillAndExpand" 
+			HorizontalOptions="FillAndExpand" Text="C" FontSize="56" />
+        
+        <Button Grid.Column="0" Grid.Row="1" VerticalOptions="FillAndExpand" 
+			HorizontalOptions="FillAndExpand" Text="1" FontSize="56"/>        
+        <Button Grid.Column="1" Grid.Row="1" VerticalOptions="FillAndExpand" 
+			HorizontalOptions="FillAndExpand" Text="2" FontSize="56" />
+        <Button Grid.Column="2" Grid.Row="1" VerticalOptions="FillAndExpand" 
+			HorizontalOptions="FillAndExpand" Text="3" FontSize="56" />
+        <Button Grid.Column="3" Grid.Row="1" VerticalOptions="FillAndExpand" 
+			HorizontalOptions="FillAndExpand" Text="+" FontSize="56"/>
+
+        <Button Grid.Column="0" Grid.Row="2" VerticalOptions="FillAndExpand" 
+			HorizontalOptions="FillAndExpand" Text="4" FontSize="56"/>       
+        <Button Grid.Column="1" Grid.Row="2" VerticalOptions="FillAndExpand" 
+			HorizontalOptions="FillAndExpand" Text="5" FontSize="56"/>
+        <Button Grid.Column="2" Grid.Row="2" VerticalOptions="FillAndExpand" 
+			HorizontalOptions="FillAndExpand" Text="6" FontSize="56"/>
+        <Button Grid.Column="3" Grid.Row="2" VerticalOptions="FillAndExpand" 
+			HorizontalOptions="FillAndExpand" Text="-" FontSize="56"/>
+        
+        <Button Grid.Column="0" Grid.Row="3" VerticalOptions="FillAndExpand" 
+			HorizontalOptions="FillAndExpand" Text="7" FontSize="56" />
+        <Button Grid.Column="1" Grid.Row="3" VerticalOptions="FillAndExpand" 
+			HorizontalOptions="FillAndExpand" Text="8" FontSize="56"/>
+        <Button Grid.Column="2" Grid.Row="3" VerticalOptions="FillAndExpand" 
+			HorizontalOptions="FillAndExpand" Text="9" FontSize="56"/>
+        <Button Grid.Column="3" Grid.Row="3" VerticalOptions="FillAndExpand" 
+			HorizontalOptions="FillAndExpand" Text="*" FontSize="56"/>
+
+        <Button Grid.Column="0" Grid.Row="4" VerticalOptions="FillAndExpand" 
+			HorizontalOptions="FillAndExpand" Text="." FontSize="56"/>
+        <Button Grid.Column="1" Grid.Row="4" VerticalOptions="FillAndExpand" 
+			HorizontalOptions="FillAndExpand" Text="0" FontSize="56"/>
+        <Button Grid.Column="2" Grid.Row="4" VerticalOptions="FillAndExpand" 
+			HorizontalOptions="FillAndExpand" Text="=" FontSize="56"/>
+        <Button Grid.Column="3" Grid.Row="4" VerticalOptions="FillAndExpand" 
+			HorizontalOptions="FillAndExpand" Text="/" FontSize="56" />
+
+    </Grid>
+
+
+</ContentPage>

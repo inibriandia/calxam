@@ -1,0 +1,23 @@
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice\bin\Debug\netstandard2.0\Devoir1Calculatrice.deps.json
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice\bin\Debug\netstandard2.0\Devoir1Calculatrice.dll
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice\bin\Debug\netstandard2.0\Devoir1Calculatrice.pdb
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice\obj\Debug\netstandard2.0\Devoir1Calculatrice.csprojAssemblyReference.cache
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice\obj\Debug\netstandard2.0\Devoir1Calculatrice.csproj.CoreCompileInputs.cache
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice\obj\Debug\netstandard2.0\Devoir1Calculatrice.AssemblyInfoInputs.cache
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice\obj\Debug\netstandard2.0\Devoir1Calculatrice.AssemblyInfo.cs
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice\obj\Debug\netstandard2.0\XamlC.stamp
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice\obj\Debug\netstandard2.0\Devoir1Calculatrice.dll
+D:\drive google\YEAR 2\session3\PROG1335\Devoir\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice\obj\Debug\netstandard2.0\Devoir1Calculatrice.pdb
+D:\Cours_Niveau2\Session3\PROG1335\Devoirs\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice\bin\Debug\netstandard2.0\Devoir1Calculatrice.deps.json
+D:\Cours_Niveau2\Session3\PROG1335\Devoirs\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice\bin\Debug\netstandard2.0\Devoir1Calculatrice.dll
+D:\Cours_Niveau2\Session3\PROG1335\Devoirs\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice\bin\Debug\netstandard2.0\Devoir1Calculatrice.pdb
+D:\Cours_Niveau2\Session3\PROG1335\Devoirs\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Cours_Niveau2\Session3\PROG1335\Devoirs\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Cours_Niveau2\Session3\PROG1335\Devoirs\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice\obj\Debug\netstandard2.0\Devoir1Calculatrice.csproj.CoreCompileInputs.cache
+D:\Cours_Niveau2\Session3\PROG1335\Devoirs\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice\obj\Debug\netstandard2.0\Devoir1Calculatrice.AssemblyInfoInputs.cache
+D:\Cours_Niveau2\Session3\PROG1335\Devoirs\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice\obj\Debug\netstandard2.0\Devoir1Calculatrice.AssemblyInfo.cs
+D:\Cours_Niveau2\Session3\PROG1335\Devoirs\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Cours_Niveau2\Session3\PROG1335\Devoirs\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice\obj\Debug\netstandard2.0\Devoir1Calculatrice.dll
+D:\Cours_Niveau2\Session3\PROG1335\Devoirs\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice\obj\Debug\netstandard2.0\Devoir1Calculatrice.pdb

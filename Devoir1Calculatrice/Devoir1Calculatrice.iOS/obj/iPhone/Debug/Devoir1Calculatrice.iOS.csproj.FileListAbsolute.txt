@@ -1,0 +1,8 @@
+D:\Cours_Niveau2\Session3\PROG1335\Devoirs\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Cours_Niveau2\Session3\PROG1335\Devoirs\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\Cours_Niveau2\Session3\PROG1335\Devoirs\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Cours_Niveau2\Session3\PROG1335\Devoirs\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\Cours_Niveau2\Session3\PROG1335\Devoirs\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Cours_Niveau2\Session3\PROG1335\Devoirs\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice.iOS\obj\iPhone\Debug\optimized\
+D:\Cours_Niveau2\Session3\PROG1335\Devoirs\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice.iOS\obj\iPhone\Debug\Devoir1Calculatrice.iOS.csprojAssemblyReference.cache
+D:\Cours_Niveau2\Session3\PROG1335\Devoirs\Devoir1Calculatrice\Devoir1Calculatrice\Devoir1Calculatrice.iOS\obj\iPhone\Debug\Devoir1Calculatrice.iOS.csproj.CoreCompileInputs.cache
